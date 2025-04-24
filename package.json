@@ -1,0 +1,19 @@
+{
+  "name": "homework-9",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://stanlettee.github.io/homework-9/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --no-cache --public-url /homework-9",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}

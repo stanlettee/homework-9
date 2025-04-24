@@ -1,0 +1,23 @@
+body { 
+    font-family: Arial; 
+    padding: 20px; 
+    width: 600px; 
+    margin: auto; 
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+input, button { 
+    padding: 8px; 
+    margin: 5px; 
+}
+.contact { 
+    border-bottom: 1px solid #ccc; 
+    padding: 10px 0; 
+}
+
+.actions button { 
+    margin-right: 5px; 
+}
