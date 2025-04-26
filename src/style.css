@@ -1,8 +1,9 @@
 body { 
     font-family: Arial; 
     padding: 20px; 
-    width: 600px; 
-    margin: auto; 
+    max-width: 900px;
+    margin: 0 auto; 
+
 }
 
 h1, h2 {
@@ -20,4 +21,8 @@ input, button {
 
 .actions button { 
     margin-right: 5px; 
+}
+
+button {
+    cursor: pointer;
 }
