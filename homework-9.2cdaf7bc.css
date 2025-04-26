@@ -1,0 +1,29 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+input, button {
+  margin: 5px;
+  padding: 8px;
+}
+
+.contact {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.actions button {
+  margin-right: 5px;
+}
+
+button {
+  cursor: pointer;
+}
+/*# sourceMappingURL=homework-9.2cdaf7bc.css.map */
